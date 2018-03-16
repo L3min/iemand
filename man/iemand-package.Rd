@@ -6,7 +6,7 @@
 \alias{iemand-package}
 \title{iemand: Iemand}
 \description{
-Creates fake people
+Creates fake people.
 }
 \author{
 \strong{Maintainer}: Lara Basson \email{laraebasson@gmail.com}
