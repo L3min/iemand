@@ -16,3 +16,5 @@ Imports:
     praise,
     magrittr,
     dplyr
+URL: https://github.com/L3min/iemand
+BugReports: https://github.com/L3min/iemand/issues
