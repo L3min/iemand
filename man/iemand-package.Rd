@@ -8,6 +8,14 @@
 \description{
 Creates fake people.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/L3min/iemand}
+  \item Report bugs at \url{https://github.com/L3min/iemand/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Lara Basson \email{laraebasson@gmail.com}
 
